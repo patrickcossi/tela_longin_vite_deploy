@@ -1,0 +1,19 @@
+*{
+margin:0;
+padding: 0;
+font-family:  Helvetica;
+box-sizing: border-box;
+font-family: Helvetica;
+text-shadow: #000 1px 1px;
+}
+.App{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-image: url("assets/image_para_login.png");
+    background-size: cover;
+    background-position: center;
+}
+
+
